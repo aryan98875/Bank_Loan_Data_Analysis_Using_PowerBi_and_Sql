@@ -1,6 +1,6 @@
 Hello connections , #powerbi #sql
 
-Dashboard link : https://lnkd.in/dcZ_8h2j
+Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiY2NjNTVkYzAtMzQxMS00NmJmLTk1NzItMmFlMmU5NzY5YjhkIiwidCI6ImMyNjdjOGQyLTI4NzEtNGM4Ny05NWNkLTYwOTVkNGQyOGIzMiJ9
 
 Excited to share insights from my recent Power Bi and Sql Bank Loan Data Analysis project.
 
@@ -16,7 +16,7 @@ Here's a glimpse into the impactful work:
 
 
 
-Dashboard link : https://lnkd.in/dcZ_8h2j
+Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiY2NjNTVkYzAtMzQxMS00NmJmLTk1NzItMmFlMmU5NzY5YjhkIiwidCI6ImMyNjdjOGQyLTI4NzEtNGM4Ny05NWNkLTYwOTVkNGQyOGIzMiJ9
 
 
 
